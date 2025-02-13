@@ -1,24 +1,16 @@
-# README
+# Crypto Wallet
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Projeto desenvolvido a partir de meus aprendizados no curso sobre a liguagem de programação Ruby com seu framework Rails.
 
-Things you may want to cover:
+* Adição;
+* Subtração;
+* Multiplicação;
+* Divisão.
 
-* Ruby version
+## Tecnologias utilizadas
+* Ruby versão 3.2.7;
+* Container no Docker;
+* Rails 7.0.8.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Desafio
+Meu desafio é aprender a programar com a linguagem de programação Ruby 💎 junto ao framework Rails, dentro de um container criado a partir do Docker.
