@@ -1,0 +1,10 @@
+<p style="color: green"><%= notice %></p>
+
+<%= render @coin %>
+
+<div>
+  <%= link_to "Editar Moeda", edit_coin_path(@coin) %> |
+  <%= link_to "Voltar para Moedas", coins_path %>
+
+  <%= button_to "Apagar essa Moeda", @coin, method: :delete %>
+</div>
