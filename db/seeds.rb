@@ -5,3 +5,9 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+
+Coin.create!(
+    descricao: "Bitcoin",
+    sigla: "BTC",
+    url_image: "https://assets.chinatechnews.com/wp-content/uploads/bitcoin-logo.jpg"
+)
